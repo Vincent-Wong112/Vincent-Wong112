@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vincent-Wong112
+- 👀 I’m interested in marchine learning and researching in economics.
+- 🌱 I’m currently learning different kinds of models in marchine learning.
+- 💞️ I’m looking foward to communicate with you whatever marchine learning or researching in economics.
